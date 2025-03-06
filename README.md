@@ -1,7 +1,7 @@
 # FAQ Chatbot with Vercel AI SDK UI
 ### By Keith Baskerville
 
-![FAQBOT](https://github.com/user-attachments/assets/f7fd73e7-2412-4bcb-b0f5-b44d35e0f8f7)
+![FAQBOT](https://github.com/user-attachments/assets/e1de48b0-dc14-4e42-b90d-e0795cabbf4a)
 
 This a walkthrough guide on how to build an Next.js application using the App Router, TypeScript, and React to create an FAQ chatbot powered by the Vercel AI SDK UI. In this demostration you will learn how build and design an interactive chatbot with ease using the OpenAI Api. Our chatbot will be able to answer questions and as a bonus include chat message persistence via localStorage!
 
