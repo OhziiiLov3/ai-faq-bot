@@ -323,3 +323,27 @@ export default function Chatbot() {
 1. Start the chatbot and send some messages.
 2. Refresh the page – Messages should still be there! 🎉
 3. Close and reopen browser – Messages persist.
+
+## 🚀 Step 7: Lets Deploy!
+ 1. Install Vercel CLI (Optional but Recommended)
+If you haven’t installed Vercel CLI, do it globally via npm:
+```sh
+npm install -g vercel
+```
+ 2. Login to Vercel
+Run:
+```sh
+vercel login
+```
+3. Navigate to Your Project Directory
+If you haven’t already, go into your project folder:
+```sh
+cd ai-faq-bot
+```
+4. Deploy Using Vercel CLI
+Run:
+```sh
+vercel
+```
+## Check it out! 🎉
+## Deployment: [ai-faq-bot.vercel.app](https://ai-faq-bot.vercel.app/)
